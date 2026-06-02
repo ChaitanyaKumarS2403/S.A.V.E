@@ -1,4 +1,4 @@
-# <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/save.png" height=35> S.A.V.E (Stream Audio Video Extractor)
+# <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/save.png" height=35> S.A.V.E (Stream Audio Video Extractor)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![yt--dlp](https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white)
@@ -18,7 +18,7 @@ Developed by **Chaitanya Kumar Sathivada**.
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/rainbow.png" width="100%">
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Download the latest version by clicking the button below.
 </a>
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/rainbow.png" width="100%">
 </p>
 
 ## ✨ Features
@@ -53,7 +53,7 @@ Download the latest version by clicking the button below.
 - **System Dependencies:** S.A.V.E will automatically detect or assist in installing `yt-dlp` and `FFmpeg` via the internal Settings menu.
 
 <p align="center">
-  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/rainbow.png" width="100%">
+  <img src="https://github.com/chaitanyakumar-ReDSeC/assets/raw/main/general/image_assets/static/rainbow.png" width="100%">
 </p>
 
 ## 📜 License
